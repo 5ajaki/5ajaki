@@ -42,7 +42,7 @@ These projects are featured in the [glama MCP lists](https://glama.ai/mcp/server
 - [**`etherscan-tools`**](https://github.com/5ajaki/etherscan-tools)  
   CLI tools to query Ethereum addresses, tokens, and contracts.  
 - [**`SPP-Tracker`**](https://github.com/5ajaki/SPP-Tracker)  
-  Markdown repo for SPP2 apps—super helpful for the community!  
+  Tool to watch the SSP2 proposal unfold in real time  
 
 ---
 
