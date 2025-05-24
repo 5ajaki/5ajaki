@@ -43,7 +43,7 @@ These projects are featured in the [glama MCP lists](https://glama.ai/mcp/server
   CLI tools to query Ethereum addresses, tokens, and contracts.  
 - [**`SPP-Tracker`**](https://github.com/5ajaki/SPP-Tracker)  
   Tool to watch the SSP2 proposal unfold in real time
-- [**`Stew-Calc`**](https://github.com/5ajaki/stew-calc)
+- [**`Stew-Calc`**](https://github.com/5ajaki/stew-calc)   
   Tool to calculate $ENS distribution to Stewards
 
 ---
